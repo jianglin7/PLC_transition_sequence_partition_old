@@ -11,7 +11,7 @@ words = letters.split()
 # print(words)
 # 随机打乱单词的顺序
 random.shuffle(words)
-# print(words)
+print(words)
 # 组合
 combined_words = ' '.join(words)
 # print(combined_words)
